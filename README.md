@@ -90,7 +90,7 @@
 
 ## CSE 418 Artificial Intelligence Laboratory
 
-### [Course outline]()
+### [Course outline](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Laboratory/CSE%20418%20Artificial%20Intelligence%20Lab.pdf)
 
 ### Assignment
 > [Assignent 1]()
