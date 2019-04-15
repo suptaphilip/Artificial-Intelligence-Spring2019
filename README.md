@@ -28,13 +28,13 @@
 ## CSE 417 Artificial Intelligence
 
 
-### [Course outline]()
+### [Course outline](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/CSE%20417%20Artificial%20Intelligence.pdf)
 
 
 
 ### Lecture Sildes
 
-  >  [Introduction - What is AI]()
+  >  [Introduction - What is AI](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L1.pdf)
   
  
 ### Assignment
