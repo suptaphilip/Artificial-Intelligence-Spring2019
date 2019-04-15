@@ -45,7 +45,7 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Book.pdf)
+> [Artificial Intelligence: A Modern Approach](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Book.pdf)
 
 ### Reading
 > [Artificial Intelligence Environments](https://medium.com/@jrodthoughts/6-types-of-artificial-intelligence-environments-825e3c47d998)
