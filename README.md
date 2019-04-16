@@ -92,6 +92,13 @@
 
 ### [Course outline](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Laboratory/CSE%20418%20Artificial%20Intelligence%20Lab.pdf)
 
+### Project Report Format
+>[Report Contents](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Laboratory/Project%20Report%20Format.pdf)
+
+>[Project Report Format](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Laboratory/Thesis%20Template%20copy.pdf)
+
+
+
 ### Assignment
 > [Assignent 1]()
 
