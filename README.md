@@ -36,6 +36,8 @@
 
   >  [Introduction - What is AI](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L1.pdf)
   
+  > [Agents](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L2.pdf)
+  
  
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date: 
