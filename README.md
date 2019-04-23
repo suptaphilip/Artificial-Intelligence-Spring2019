@@ -38,6 +38,7 @@
   
   > [Agents](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L2.pdf)
   
+  >[Search Problem](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L3.pdf)
  
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date: 
