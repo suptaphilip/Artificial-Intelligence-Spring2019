@@ -108,7 +108,9 @@
 
 ### Prolog Tutorials
 
-> [Prolog Titorial 1]()
+> [Prolog Titorial 1](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/prolog%20tutorials%201.pdf)
+
+> [Prolog Titorial 2](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Lab/prolog%20tutorials%202.pdf)
 
 
 ### Python Lab
