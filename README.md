@@ -38,7 +38,11 @@
   
   > [Agents](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L2.pdf)
   
-  >[Search Problem](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L3.pdf)
+  > [Search Problem](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/L3.pdf)
+  
+  > [Informed search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04a.pdf)
+  
+  >[Local Search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04b.pdf)
  
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date: 
@@ -86,7 +90,9 @@
 
 ### Sample Questions
 
->[AI_Mid_Fall17]()
+>[AI_Mid_Fall17](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Fall17.pdf)
+
+>[AI_Mid_Spring18](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/AI_Mid_Spring18.pdf)
 
 
 
