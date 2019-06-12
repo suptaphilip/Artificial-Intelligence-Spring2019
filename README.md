@@ -42,7 +42,9 @@
   
   > [Informed search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04a.pdf)
   
-  >[Local Search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04b.pdf)
+  > [Local Search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04b.pdf)
+  
+  > [Constraint Satisfaction Problems](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter05.pdf)
  
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date: 
