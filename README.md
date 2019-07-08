@@ -45,6 +45,17 @@
   > [Local Search](https://github.com/suptaphilip/Artificial-Intelligence-Spring2019/raw/AI-Theory/chapter04b.pdf)
   
   > [Constraint Satisfaction Problems](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter05.pdf)
+  
+  >[Game playing](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter06.pdf)
+  
+  > [Logical agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter07.pdf)
+  
+  >[First-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter08.pdf)
+  
+  >[Inference in first-order logic](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/chapter09.pdf)
+  
+  >[Edx AI Logical Agents](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Edx%20Logical%20Agents.pdf)
+
  
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date: 
